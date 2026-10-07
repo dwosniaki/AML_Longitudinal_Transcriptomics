@@ -73,7 +73,7 @@ Master expression matrix
 ```text
 .
 ├── Papers/
-│   └── Paper_1/
+│   └── Session_1/
 │       ├── scripts/
 │       │   ├── Script_01_Initial_Data_Preparation.R
 │       │   ├── Script_02_Global_PCA.R
